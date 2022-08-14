@@ -2,10 +2,6 @@
 
 CannyBuddy is a lightweight and easy-to-use App for getting information about the actual bioavailability of your Cannabis.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Screenshot
 ```
