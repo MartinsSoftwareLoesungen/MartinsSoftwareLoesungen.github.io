@@ -3,7 +3,7 @@
 CannyBuddy is a lightweight and easy-to-use App for getting information about the estimated bioavailability of your Cannabis.
 
 ```markdown
-Screenshot
+[Image](example.jpeg)
 ```
 [Disclaimer](https://martinssoftwareloesungen.github.io/Disclaimer.html)
 
