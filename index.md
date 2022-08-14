@@ -6,4 +6,5 @@ CannyBuddy is a lightweight and easy-to-use App for getting information about th
 Screenshot
 ```
 [Disclaimer](https://martinssoftwareloesungen.github.io/Disclaimer.html)
+
 [Privacy](https://martinssoftwareloesungen.github.io/Privacy.html)
