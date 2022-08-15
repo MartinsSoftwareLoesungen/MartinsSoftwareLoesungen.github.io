@@ -5,6 +5,7 @@ CannyBuddy is a lightweight and easy-to-use App for getting information about th
 
 <img src="Images/example.jpeg" alt="hi" class="inline"/>
 
+Contact: cannybuddy@icloud.com
 
 [Disclaimer](https://martinssoftwareloesungen.github.io/Disclaimer.html)
 
