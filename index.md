@@ -3,7 +3,7 @@
 CannyBuddy is a lightweight and easy-to-use App for getting information about vaporizing Cannabis.
 
 
-<img src="Images/example.jpeg" alt="hi" class="inline"/>
+<img src="Images/IMG_0477.jpeg" alt="hi" class="inline"/>
 
 Contact: cannybuddy@icloud.com
 
