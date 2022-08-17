@@ -1,6 +1,6 @@
 ## Welcome to CannyBuddy Support Site
 
-CannyBuddy is a lightweight and easy-to-use App for getting information about the estimated bioavailability of your Cannabis.
+CannyBuddy is a lightweight and easy-to-use App for getting information about vaporizing Cannabis.
 
 
 <img src="Images/example.jpeg" alt="hi" class="inline"/>
